@@ -28,3 +28,6 @@ Do not use any external libraries or frameworks to fetch the GitHub activity.
 
 # Desclaimer:
 This project is still in progress
+
+# Project URL
+https://roadmap.sh/projects/github-user-activity
