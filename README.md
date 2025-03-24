@@ -26,8 +26,5 @@ Handle errors gracefully, such as invalid usernames or API failures.
 Use a programming language of your choice to build this project.
 Do not use any external libraries or frameworks to fetch the GitHub activity.
 
-# Desclaimer
-This project is still in progress
-
 # Project URL
 https://roadmap.sh/projects/github-user-activity
